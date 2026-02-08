@@ -1,6 +1,6 @@
-fastapi
-uvicorn
-pydantic
-asyncpg
-openai
-openai-agents
+fastapi==0.109.1
+uvicorn[standard]==0.23.2
+pydantic==2.5.1
+asyncpg==1.0.0
+openai==1.30.0
+openai-agents==0.1.0
