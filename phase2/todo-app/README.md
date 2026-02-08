@@ -1,4 +1,4 @@
-# Next.js 14 Todo Application with NeonDB
+ # Next.js 14 Todo Application with NeonDB
 
 This is a production-ready Todo application built with Next.js 14 (App Router), TypeScript, Tailwind CSS, and NeonDB (PostgreSQL). It features full CRUD (Create, Read, Update, Delete) operations and is designed for deployment.
 
